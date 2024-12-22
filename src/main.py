@@ -1,4 +1,5 @@
 from map_process import *
+from src.utils.fetch_data import fetch_all_room_info
 from utils import *
 
 
@@ -20,4 +21,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    test()
